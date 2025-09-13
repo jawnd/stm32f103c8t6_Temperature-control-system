@@ -1,0 +1,6 @@
+../Core/Src/tec.c:50:6:TEC_Init	1
+../Core/Src/tec.c:65:6:TEC_Start	2
+../Core/Src/tec.c:80:6:TEC_Stop	2
+../Core/Src/tec.c:96:6:TEC_SetPower	5
+../Core/Src/tec.c:116:11:TEC_GetState	1
+../Core/Src/tec.c:128:9:TEC_GetPower	1

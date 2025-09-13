@@ -1,0 +1,8 @@
+../Core/Src/ch1116.c:36:6:CH1116_WriteCommand	40	static
+../Core/Src/ch1116.c:48:6:CH1116_WriteData	40	static
+../Core/Src/ch1116.c:60:6:CH1116_Init	8	static
+../Core/Src/ch1116.c:97:6:CH1116_Clear	16	static
+../Core/Src/ch1116.c:111:6:CH1116_Display	16	static
+../Core/Src/ch1116.c:128:6:CH1116_SetCursor	16	static
+../Core/Src/ch1116.c:148:6:CH1116_DrawPixel	24	static
+../Core/Src/ch1116.c:173:6:CH1116_Fill	24	static
