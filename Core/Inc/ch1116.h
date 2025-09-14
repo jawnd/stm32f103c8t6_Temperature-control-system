@@ -83,6 +83,7 @@ void CH1116_Display(void);
 void CH1116_SetCursor(uint8_t page, uint8_t column);
 void CH1116_DrawPixel(uint8_t x, uint8_t y, uint8_t color);
 void CH1116_Fill(uint8_t color);
+void CH1116_PrintString(uint8_t page, uint8_t column, char* str);
 
 /* DMA related functions */
 void CH1116_DMA_TransmitComplete(void);
